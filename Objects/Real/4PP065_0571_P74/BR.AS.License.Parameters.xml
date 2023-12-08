@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Parameters>
+  <Connection>
+    <DeviceParameters>/IF=COM1 /BD=57600 /PA=2 /IT=20 /RS=0</DeviceParameters>
+    <ConnectionParameters>/RT=1000 /AM=*</ConnectionParameters>
+  </Connection>
+  <AsProject>
+    <ApjFullFileName>C:\Users\admin\Downloads\ezyZip\LAB1\LAB1.apj</ApjFullFileName>
+    <ProjectName>LAB1</ProjectName>
+    <ActiveConfigurationName>Real</ActiveConfigurationName>
+    <LicenseDataFolder>C:\Users\admin\Downloads\ezyZip\LAB1\Temp\Objects\Real\4PP065_0571_P74</LicenseDataFolder>
+  </AsProject>
+  <General>
+    <DeleteParameterFile>false</DeleteParameterFile>
+  </General>
+</Parameters>
